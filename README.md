@@ -1,5 +1,5 @@
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/Generalghost890/Sessioncrackerbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/JAIITHON/hacksesionbot)
 
 
  Extended MIT License with Additional Clauses
